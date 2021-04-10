@@ -47,7 +47,13 @@ I am currently learning how to use ML models to solve the real world problems. C
 
 ### Connect with me
 You can check a few answers I wrote on Stackoverflow.
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/animesh241100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/animesh241100/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12661847)  
 
+### My Projects
+The important repositeries are pinned below. Few website I created are
+
+* [darkviolet](http://darkviolet.pythonanywhere.com/) - A full fledged blog webapp, fronted using reactjs and backend with django and django REST
+* [netcart-ecommerce](http://darkviolet.netcartecommerce.com/) - A complete eCommerce website using entirely with django
 
 ![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=animesh241100&show_icons=true&theme=dracula)
