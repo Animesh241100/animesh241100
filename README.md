@@ -30,7 +30,7 @@ I know how to deploy webapps on AWS EC2 instance on a linux system e.g. Ubuntu u
 
 #### Operating Systems && Utilities ⚙️
 * Windows
-* Linux - Ubunut, Pop!OS
+* Linux - Ubuntu, Pop!OS
 * Source control using git ℹ️
 * github
 
@@ -54,6 +54,6 @@ You can check a few answers I wrote on Stackoverflow.
 The important repositeries are pinned below. Few website I created are
 
 * [darkviolet](http://darkviolet.pythonanywhere.com/) - A full fledged blog webapp, fronted using reactjs and backend with django and django REST
-* [netcart-ecommerce](http://darkviolet.netcartecommerce.com/) - A complete eCommerce website using entirely with django
+* [netcart-ecommerce](http://netcartecommerce.pythonanywhere.com/) - A complete eCommerce website using entirely with django
 
 ![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=animesh241100&show_icons=true&theme=dracula)
