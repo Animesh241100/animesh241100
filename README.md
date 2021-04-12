@@ -9,32 +9,23 @@ A Computer Science and Engineering student from IIITDM Kancheepuram, Chennai. I 
 
 ### Skills:
 #### Programming Languages 🧠
-* C
-* C++
-* Python
-* Javascript
+* C, C++, Python, Javascript
 
 #### Frontend 🍓
-* React
-* Javascript
-* HTML
-* CSS
+* React.Js, Javascript, HTML, CSS
 
 #### Backend 🖥️
-* Django Framework (Python)
-* REST API using Django Rest Framework (Python)
+* Django Framework (Python), REST API using Django Rest Framework (Python)
 * Database: SQLite, MySQL
 
 #### Deployment 💾
-* Apache2
-* AWS EC2
+* Apache2, AWS EC2
 I know how to deploy webapps on AWS EC2 instance on a linux system e.g. Ubuntu using `Apache2`.
 
 #### Operating Systems && Utilities ⚙️
 * Windows
 * Linux - Ubuntu, Pop!OS
-* Source control using git ℹ️
-* github
+* Source control using git ℹ️, github
 
 #### Computer Science 📓
 * Algorithms efficiency analysis
